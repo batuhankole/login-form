@@ -26,5 +26,5 @@
 
 ###  License 
 
-Licensed under the MIT license, see [LICENSE](https://github.com/batuhankole/adidas/blob/main/LICENSE) for details.
+Licensed under the MIT license, see [LICENSE](https://github.com/batuhankole/login-form/blob/main/LICENSE) for details.
 
